@@ -66,10 +66,10 @@ Main menu: a shadow puppet show where the puppets are the menu buttons.
 
 | | Role |
 |---|---|
-| [Daniil Baranov](https://github.com/DaniilBaranov-UNVS) | Full-stack game developer, UI |
+| [D.Baranov-UNVS](https://github.com/DaniilBaranov-UNVS) | Full-stack game developer, UI |
 | [Leelik12](https://github.com/Leelik12) | Full-stack game developer |
-| [Vlad](https://github.com/Taizer124) | Level designer, developer |
-| [Alexandra Terekhova](https://github.com/TAlleks) | 3D artist, sound designer, UI |
+| [Taizer124](https://github.com/Taizer124) | Level designer, developer |
+| [TAllex](https://github.com/TAlleks) | 3D artist, sound designer, UI |
 
 ## Tech
 

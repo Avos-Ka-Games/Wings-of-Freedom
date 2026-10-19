@@ -9,7 +9,7 @@ Made by a team of four in 3 days.
 
 ## Play
 
-Windows build: coming soon.
+Windows build: coming soon. 
 
 ## About
 
